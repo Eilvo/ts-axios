@@ -1,2 +1,1 @@
-# ts-axios
-使用TypeScript重构Axios
+使用 TypeScript 重构 Axios
